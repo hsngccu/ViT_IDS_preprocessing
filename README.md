@@ -9,13 +9,11 @@
 
       sh SplitCap2017.sh
       python get_feature2017.py
-      python dataset_processor2017.py
 
 ### CIC-IDS2018
 
       sh SplitCap2018.sh
       python get_feature2018.py
-      python dataset_processor2018.py
 
 ## Data_Preprocess
 1. SplitCap.exe: 使用SplitCap將資料按5-tuple切成一個個pcap
