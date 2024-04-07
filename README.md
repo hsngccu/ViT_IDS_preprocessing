@@ -60,5 +60,3 @@
    - 外部提供function:
       - preprocess_data_del()
       - preprocess_data_port()
-
-GitHub: [Danny-TU](https://github.com/Danny-TU)
